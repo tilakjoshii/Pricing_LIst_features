@@ -1,0 +1,33 @@
+@media(max-width:1024px){
+    .table-main{
+        width: 100%;
+        margin: 1rem 0rem 1rem;
+    }
+    .table-main p{
+        margin-bottom: 1rem;
+    }
+    .price-section{
+        background-color: rgb(240, 250, 242);
+    padding: 40px;
+    overflow-x: auto;
+    margin:0%;
+    }
+    .grid-cell{
+      
+       width: 35vw;
+       
+
+    }
+    .advance,.premium{
+        display: none;
+    }
+
+
+    .mobile-header ul{
+         display: flex;
+    }
+    .mobile-header ul li{
+       list-style: none;
+    }
+
+}
